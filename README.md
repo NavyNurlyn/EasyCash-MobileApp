@@ -2,6 +2,8 @@
 
 **EasyCash** adalah aplikasi kasir mobile yang dirancang khusus untuk membantu UMKM kuliner dalam mengelola penjualan, produk, dan transaksi dengan lebih efisien. Dibangun menggunakan **Kotlin** di **Android Studio** dan memanfaatkan **SQLite** sebagai basis data lokal, aplikasi ini memberikan solusi lengkap untuk manajemen produk, transaksi, dan pelaporan penjualan.
 
+![Gambar EasyCashApp](https://drive.google.com/uc?export=view&id=1rjXN2DjmFr562BUSAUFG1KbrZye8vpTK)
+
 ---
 
 ## **Fitur Utama**
@@ -39,6 +41,15 @@
 
 ---
 
+## **Tim Pengembang**
+
+1. Fathimatus Zahrotun Nisa
+2. Navy Nurlyn Ajrina
+3. Ganes Dwi F.
+4. Putri Intan Octavia Br. Sipayung 
+
+---
+
 ## 📈 **Manfaat Aplikasi EasyCash**
 
 ✅ Mempermudah manajemen produk dan stok.  
@@ -48,7 +59,6 @@
 ✅ Mendukung berbagai metode pembayaran digital.  
 
 ---
-
 ## 📬 **Kontak**
 
 Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya melalui:  
